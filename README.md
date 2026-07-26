@@ -1,33 +1,35 @@
 # Task 2 - Data Visualization and Storytelling
 
 ## Objective
-Create an interactive dashboard using Power BI to visualize sales data and derive business insights.
+Build an interactive Power BI dashboard to visualize sales data and generate business insights.
 
 ## Dataset
-Superstore Sales Dataset
+- Superstore Sales Dataset
+- Source: Kaggle
 
-## Tool Used
+## Tools Used
 - Microsoft Power BI
 
-## Dashboard Includes
+## Dashboard Features
 - Total Sales KPI
-- Sales by Category
-- Sales by Region
-- Sales by Segment
-- Monthly Sales Trend
+- Sales by Category (Bar Chart)
+- Sales by Region (Column Chart)
+- Sales by Segment (Pie Chart)
+- Sales Trend Over Time (Line Chart)
 - Category Slicer
 - Region Slicer
 
 ## Key Insights
 - Technology generated the highest sales.
-- The West region had the highest sales.
-- Consumer segment contributed the largest share of sales.
-- Sales showed an increasing trend over the years.
+- The West region recorded the highest sales.
+- The Consumer segment contributed the largest share of total sales.
+- Sales showed an upward trend over the years.
 
-## Files
+## Repository Files
 - train.csv
 - Task-2-Dashboard.pbix
 - dashboard.png
+- README.md
 
 ## Outcome
-Created an interactive Power BI dashboard with filters and multiple visualizations for business analysis.
+Designed an interactive Power BI dashboard with multiple visualizations and slicers to analyze sales performance and support business decision-making.
